@@ -213,6 +213,10 @@ footer{
 .social-links a:hover{
     color: white;
 }
+html {
+    scroll-behavior: smooth;
+}
+
 /* .greeting-container {
     display: flex;
     align-items: center;
